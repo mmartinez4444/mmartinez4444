@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=mmartinez4444)
-![](https://komarev.com/ghpvc/?username=mmartinez4444&color=cca3ff)
-![](https://komarev.com/ghpvc/?username=mmartinez4444&label=VISITS)
+![](https://komarev.com/ghpvc/?username=mmartinez4444&color=cca3ff&label=VISITS)
 
 <!--
 **mmartinez4444/mmartinez4444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
