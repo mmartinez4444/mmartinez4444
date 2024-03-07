@@ -4,9 +4,7 @@
 Hi! I'm Mico Martinez
 
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,php,java,mysql,git,github&theme=light&perline=4"/>
-  </a>
 </p>
 
 #
