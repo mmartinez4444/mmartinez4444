@@ -1,5 +1,5 @@
 # 💪🏼 Mico Martinez ![](https://komarev.com/ghpvc/?username=mmartinez4444&color=cca3ff&label=VISITS)
-**`Average Guy (Developer/Editor/Gamer)`**
+**`LoL enjoyer (Developer/Editor/Gamer sheesh)`**
 
 Hi! I'm Mico Martinez
 ### Languages
