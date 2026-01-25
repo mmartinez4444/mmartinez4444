@@ -4,13 +4,10 @@
 Hi! I'm Mico Martinez
 ### Languages
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,php,java,mysql,git,github&theme=light&perline=4"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,php,java,mysql,git,github,postman,dart,c++,&theme=light&perline=4"/>
 </p>
 
 ###
-
-
-![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)
 
 
 
