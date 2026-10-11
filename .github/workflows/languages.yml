@@ -21,6 +21,14 @@ jobs:
           ref: main
           fetch-depth: 0
 
+      - name: Check organization access
+        env:
+          GH_TOKEN: ${{ secrets.GH_STATS_TOKEN }}
+        run: |
+          gh api --paginate --slurp \
+            "/orgs/Stocktech-Business-Solutions/repos?type=all&per_page=100" \
+            --jq 'add | {visible_repositories: length, private_repositories: (map(select(.private == true)) | length)}'
+
       - name: Generate language card
         uses: stats-organization/github-readme-stats-action@v2
         with:
