@@ -28,11 +28,20 @@ and exploring new technologies along the way.
   <img src="https://skillicons.dev/icons?i=vue,nuxtjs,react,nextjs,flutter,threejs,tailwind,bootstrap&theme=dark&perline=8" alt="Vue, Nuxt, React, Next.js, Flutter, Three.js, Tailwind CSS, and Bootstrap" />
 </p>
 
-### Database, Cloud & Tools
+### Database & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,aws,git,github,vscode,postman,figma&theme=dark&perline=8" alt="MySQL, Firebase, AWS, Git, GitHub, VS Code, Postman, and Figma" />
+  <img src="https://skillicons.dev/icons?i=supabase,postgres,mysql,firebase,aws&theme=dark&perline=8" alt="Supabase, PostgreSQL, MySQL, Firebase, and AWS" />
 </p>
+
+### Tools & Testing
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vitest&theme=dark&perline=8" alt="Git, GitHub, VS Code, Postman, Figma, and Vitest" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="48" height="48" alt="Playwright" title="Playwright" />
+</p>
+
+
 
 ### GitHub Streak
 
