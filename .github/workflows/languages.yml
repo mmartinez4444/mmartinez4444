@@ -34,7 +34,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=mmartinez4444&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true
+          options: username=mmartinez4444&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true
           path: profile/stats.svg
           token: ${{ secrets.GH_STATS_TOKEN }}
           fail_on_error: true
