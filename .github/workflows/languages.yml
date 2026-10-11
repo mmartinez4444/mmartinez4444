@@ -8,11 +8,18 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: readme-cards
+  cancel-in-progress: false
+
 jobs:
   cards:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v6
+        with:
+          ref: main
+          fetch-depth: 0
 
       - name: Generate language card
         uses: stats-organization/github-readme-stats-action@v2
@@ -41,4 +48,5 @@ jobs:
             exit 0
           fi
           git commit -m "Update README cards"
-          git push
+          git pull --rebase origin main
+          git push origin HEAD:main
